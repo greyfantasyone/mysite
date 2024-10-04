@@ -1,6 +1,6 @@
 # 浙大机协
 
-<img src="/img/机协logo.png" alt="triangle" width="200" height="200">
+<img src="./img/机协logo.png" alt="triangle" width="200" height="200">
 
 想了解更多机器人知识吗?  
 想找到志同道合的竞赛队友吗?  
