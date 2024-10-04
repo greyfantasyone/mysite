@@ -1,0 +1,24 @@
+site_name: 浙江大学学生机器人协会
+nav:
+  - 首页: index.md
+  - 关于我们:
+    - 协会简介: about.md
+    - 组织架构: structure.md
+    - 历届干部: council.md
+    - 会员风采: members.md
+  - 活动:
+    - 活动日历: events.md
+    - 活动回顾: reviews.md
+  - 项目:
+    - 项目简介: projects.md
+    - 项目展示: showcase.md
+  - 资源:
+    - 会员手册: handbook.md
+    - 会员福利: benefits.md
+    - 会员服务: services.md
+  - 联系我们: contact.md
+  - 网站地图: sitemap.md
+  - 404: 404.md
+
+theme:
+  name: material
